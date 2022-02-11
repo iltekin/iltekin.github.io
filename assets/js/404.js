@@ -11,4 +11,4 @@
     a.appendChild(title);
 
     targetDiv.appendChild(a);
-});
+})();
