@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Basit Bir Piyango Problemi"
-comments: true
+comments: false
 description: "Bir matematik problemini algoritma ile çözmek üzerine bir yazı."
 keywords: "php, algoritma, olasılık"
 ---
@@ -16,8 +16,6 @@ Bir duyuru sitesinde dolaşırken karşıma çıkan şu soruya bir bakalım:
 Soruda belirtmemiş olsa da piyango biletlerinin karakter sayısı hep aynı olacağından ilk bilet numarası tek bir sıfır yerine 6 sıfır olması gerekiyor. Sonraki sayı ise 000001. Bu şekilde 999999’a gelindiğinde sıfır sayısı ile beraber elimizde toplam 1 milyon sayı olacak. Kod yazmayı biliyorsanız öncelikle bu problemi kendiniz çözmeye çalışın. PHP yazanlar için bir tavsiye vereyim: Ben genelde böyle ufak tefek işlerimi phptester.net üzerinde yapıyorum. Ne yapacağınız hakkında bir bilginiz yoksa aşağıdaki kodu inceleyebilirsiniz.
 
 ```php
-<?php
-
 // Öncelikle eşit olan sayıları biriktirmek için boş bir dizi (array) oluşturalım.
 $esitolanlar = array();
 
