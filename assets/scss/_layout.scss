@@ -98,10 +98,20 @@ hr {
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
+  padding-left: 32px;
 
   span {
     font-weight: 700;
   }
+}
+
+.logo:before {
+  content: '';
+  background: url('/assets/images/favicon.png') no-repeat;
+  background-size: 100%;
+  width: 28px;
+  height: 28px;
+  position: absolute;
 }
 
 .nav {
