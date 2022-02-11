@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Markdown Cheatsheet Demo"
-comments: true
-description: "Markdown Cheatsheet Demo..."
-keywords: "markdown, typography components, dummy content"
+layout: page
+title: Markdowns Examples
+permalink: /markdown/
 ---
 
 ## Typography Elements in One
