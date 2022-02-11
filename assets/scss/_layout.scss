@@ -295,6 +295,11 @@ hr {
   .navbar {
     float: none;
     display: inline-block;
+    width: 100%;
+  }
+
+  .navbar li:first-child {
+    padding-left: 0;
   }
 
 }
