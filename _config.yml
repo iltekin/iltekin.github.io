@@ -17,14 +17,13 @@ postshare_enabled : true
 permalink   : /:year/:month/:title/
 markdown    : kramdown
 highlighter : rouge
-kramdown:
-  syntax_highlighter_opts:
-    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
+syntax_highlighter_opts:
+  #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+  span:
+    line_numbers: false
+  block:
+    line_numbers: true
+    start_line: 1
 
 source      : ./
 destination : ./_site
