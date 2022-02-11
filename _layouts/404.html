@@ -6,13 +6,13 @@ layout: default
   <header class="page-header">
     <h1 class="page-title">{{ page.title }}</h1>
   </header>
-  <div id="404" class="page-content">
+  <div id="404-div" class="page-content">
     {{ content }}
   </div>
 </article>
 
 <script type="text/javascript">
-  const targetDiv = document.getElementById('404');
+  const targetDiv = document.getElementById('404-div');
   const text = document.createTextNode("Try this URL: ");
   targetDiv.appendChild(text);
 
