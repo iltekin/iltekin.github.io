@@ -13,7 +13,7 @@
   {% else %}
       {% capture page_title %}
           {%if page.slug == 'category' %}Category: {% endif %}
-          {%if page.slug == 'tag' %}Tag: {% endif %} {{ page.title }} | {{ site.title_left }}{{ site.title_right }}
+          {%if page.slug == 'tag' %}Tag: {% endif %} {{ page.title }} | {{ site.title_left }}
       {% endcapture %}
   {% endif %}
   {% capture page_title %}
