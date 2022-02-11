@@ -98,7 +98,8 @@ hr {
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
-  padding-left: 32px;
+  padding-left: 27px;
+  position: relative;
 
   span {
     font-weight: 700;
@@ -109,9 +110,11 @@ hr {
   content: '';
   background: url('/assets/images/favicon.png') no-repeat;
   background-size: 100%;
-  width: 28px;
-  height: 28px;
+  width: 22px;
+  height: 22px;
   position: absolute;
+  left: 0;
+  top: 1px;
 }
 
 .nav {
