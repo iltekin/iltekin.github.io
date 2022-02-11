@@ -95,6 +95,14 @@
   .il    { color: #099 } // Literal.Number.Integer.Long
 }
 
+.highlighter-rouge .highlight,
+.highlight,
+.highlight .hll,
+.highlight pre,
+.highlight code {
+  background-color: #24282e !important;
+}
+
 .highlight pre { background-color: #404040 }
 .highlight .hll { background-color: #404040 }
 .highlight .c { color: #999999; font-style: italic } /* Comment */
