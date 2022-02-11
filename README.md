@@ -6,7 +6,7 @@
 
 - **URL:** https://iltekin.com
 
-![SCREENSHOT](https://iltekin.com/screenshot.png)
+![SCREENSHOT](screenshot.png)
 
 ## License
 
