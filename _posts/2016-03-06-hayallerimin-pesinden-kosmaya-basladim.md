@@ -30,4 +30,6 @@ Kitap şu anda aynı sitede 45,52 TL’ye satılıyor._
 Kendime koskoca 4 sene veriyorum. 2020 yılına kadar kendimi ne kadar geliştirebileceğimi, o gün geldiğinde, bu işi meslek değişikliği yapacak kadar ilerletip ilerletemeyeceğimi çok merak ediyorum. Bu işi seviyorum. PHP çalışırken oyun oynuyormuş gibi hissediyorum. Bu hevesin avantajını kullanarak bu işte en iyilerden biri olmak istiyorum. Eğer Allah ömür verirse, 2020 yılında bu yazının altına bir şeyler karalamak üzere. Hayallerinizin peşini bırakmayın.
 
 ---
+**Not:** Bu yazıyı 2016 yılında kişisel blogum [kelimelerbenim.com]()'da yazmıştım fakat konusundan dolayı burada da bulunmasını istedim. Asıl yazının linki: [https://kelimelerbenim.com/hayallerimin-pesinden-kosmaya-basladim]()
+
 [^1]: 1: Kaynak: [http://tutorial.techaltum.com/css.html](http://tutorial.techaltum.com/css.html)
