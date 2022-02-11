@@ -99,6 +99,11 @@ hr {
   line-height: 28px;
   font-weight: 300;
 
+  .logo a:before {
+    content: "";
+    margin-right: 5px;
+  }
+
   span {
     font-weight: 700;
   }
