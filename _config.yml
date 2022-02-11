@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "iltekin"
 title_right   : "brainworks" # default: ""
-description   : "iltekin software co. landing page"
+description   : "iltekin software co. website"
 keywords      : "iltekin, iOS, software, web design, sezer İltekin"
 url           : https://iltekin.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -11,7 +11,7 @@ google_analytics  : UA-XXXXX-XX
 twitter_username  : "kelimelerbenim"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:month/:title/
