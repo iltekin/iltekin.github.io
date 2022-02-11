@@ -34,6 +34,7 @@ plugins:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # navbar pages
 navbar:
