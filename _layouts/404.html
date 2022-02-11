@@ -14,6 +14,10 @@ layout: default
 <script type="text/javascript">
   var targetDiv = document.getElementById('404');
   var URL = "https://code.iltekin.com/" + window.location.pathname;
-  var content = document.createTextNode("Try this URL: <a href='"+ URL + "'>" + URL + "</a>");
+  var content = document.createTextNode("Try this URL: ");
+  var URLelement = document.createElement("a")
+  URLelement.href = URL
+  URLelement.text = URL
   targetDiv.appendChild(content);
+  targetDiv.appendChild(URLelement);
 </script>
