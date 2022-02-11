@@ -12,16 +12,16 @@ layout: default
 </article>
 
 <script type="text/javascript">
-  var targetDiv = document.getElementById('404');
-  var text = document.createTextNode("Try this URL: ");
+  const targetDiv = document.getElementById('404');
+  const text = document.createTextNode("Try this URL: ");
+  targetDiv.appendChild(text);
 
-  var url = "https://code.iltekin.com" + window.location.pathname
-  var title = document.createTextNode(url);
-  var a = document.createElement("a")
+  const url = "https://code.iltekin.com" + window.location.pathname;
+  const title = document.createTextNode(url);
 
+  const a = document.createElement("a");
   a.href = url
   a.appendChild(title)
 
-  targetDiv.appendChild(text);
   targetDiv.appendChild(a);
 </script>
