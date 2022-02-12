@@ -21,6 +21,10 @@ highlighter : rouge
 source      : ./
 destination : ./_site
 
+collections:
+  portfolio:
+    output: true
+
 # Sass configuration
 sass:
   sass_dir  : assets/scss
