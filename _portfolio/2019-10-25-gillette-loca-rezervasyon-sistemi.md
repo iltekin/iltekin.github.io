@@ -4,7 +4,7 @@ title: "Gillette Loca Rezervasyon Sistemi"
 comments: false
 description: "Gillette için tasarlanmış bir loca rezervasyon sistemi."
 keywords: "php, gillette, loca, rezervasyon"
-images: 001
+images: 002
 ---
 
 Bu web sitesi Gillette Türkiye'nin sponsor olduğu profesyonel futbol kulüplerinin loca rezervasyonları için tasarlanmıştır.
