@@ -133,22 +133,21 @@ hr {
     display: inline-block;
     padding: 0 .6em;
     position: relative;
-    
-    span {
-      background: #000000;
-      color: #FFFFFF;
-      font-size: 9px;
-      border-radius: 50%;
-      position: absolute;
-      top: 0;
-      right: 0;
-    }
-    
   }
 
   a {
     @extend .link;
   }
+}
+
+.navbar li span {
+  background: #000000;
+  color: #FFFFFF;
+  font-size: 9px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 .category-title {
