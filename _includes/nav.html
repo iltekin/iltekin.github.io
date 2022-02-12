@@ -9,7 +9,7 @@
     <ul class="navbar">
       <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a></li>
       <li><a href="{{ '/projects' | prepend: site.baseurl | prepend: site.url }}">Projects</a></li>
-      <li><a href="{{ '/portfolio' | prepend: site.baseurl | prepend: site.url }}">Portfolio ({{ portfolioCount }})</a></li>
+      <li><a href="{{ '/portfolio' | prepend: site.baseurl | prepend: site.url }}">Portfolio</a><span>{{ portfolioCount }}</span></li>
       <li><a href="{{ '/contact' | prepend: site.baseurl | prepend: site.url }}">Contact</a></li>
       <li style="display: none"><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
     </ul>
