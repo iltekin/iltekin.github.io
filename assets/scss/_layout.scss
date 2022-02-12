@@ -148,13 +148,15 @@ hr {
   right: 0;
   top: 0;
   vertical-align: middle;
-  width: 12px;
-  height: 12px;
-  font-size: 9px;
+  width: 10px;
+  height: 10px;
+  font-size: 8px;
   font-weight: 900;
   color: #FFFFFF;
   border-radius: 50%;
   transform: translateX(30%);
+  line-height: 8px;
+  padding: 2.5px 1px 1px 1px;
 }
 
 .navbar_badge__content {
