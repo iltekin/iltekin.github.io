@@ -24,6 +24,8 @@ destination : ./_site
 collections:
   portfolio:
     output: true
+  projects:
+    output: true
 
 # Sass configuration
 sass:
