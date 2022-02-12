@@ -144,16 +144,17 @@ hr {
   position: absolute;
   display: inline-table;
   background: #000000;
-  background: linear-gradient(150deg, rgba(0,0,0,1) 0%, rgba(61,61,60,1) 100%);
+  background: linear-gradient(150deg, #000 0%, #3d3d3c 100%);
   right: 0;
   top: 0;
   vertical-align: middle;
-  width: 15px;
-  height: 15px;
-  font-size: 10px;
+  width: 12px;
+  height: 12px;
+  font-size: 9px;
+  font-weight: 900;
   color: #FFFFFF;
   border-radius: 50%;
-  transform: translateX(50%);
+  transform: translateX(30%);
 }
 
 .navbar_badge__content {
