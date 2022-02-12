@@ -142,15 +142,15 @@ hr {
 
 .navbar_badge {
   position: absolute;
+  display: inline-table;
+  background-color: #000000;
   right: 0;
   top: 0;
-  display: inline-table;
   vertical-align: middle;
   width: 15px;
   height: 15px;
   font-size: 10px;
   color: #FFFFFF;
-  background-color: #000000;
   border-radius: 50%;
   transform: translateX(100%);
 }
