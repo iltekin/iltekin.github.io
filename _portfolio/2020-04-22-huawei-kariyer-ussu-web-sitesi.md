@@ -7,7 +7,7 @@ keywords: "php, huawei, insan kaynayları, huawei türkiye"
 images: 003
 ---
 
-Huawei Türkiye için tasarlanmış bir insan kaynakları yönetim sistemi. Sonradan [Workable](https://workable.com) ile API entegrasyonu da yapılan web sitesi [huaweikariyerussu.com](https://huaweikariyerussu.com) üzerinde aktif olarak hizmet vermektedir.
+Huawei Türkiye için tasarlanmış bir insan kaynakları yönetim sistemi. [Workable](https://workable.com) API entegrasyonu da yapılan web sitesi [huaweikariyerussu.com](https://huaweikariyerussu.com) üzerinde aktif olarak hizmet vermektedir.
 
 ![001](../images/003/001.jpg)
 
