@@ -144,7 +144,9 @@ hr {
   color: #111111;
 }
 
-.navbar a:hover {
+.navbar a:hover,
+.navbar a:focus,
+.navbar a:active {
   border-color: #111111;
 }
 
