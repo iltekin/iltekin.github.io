@@ -140,6 +140,14 @@ hr {
   }
 }
 
+.navbar a {
+  color: #111111;
+}
+
+.navbar a:hover {
+  border-color: #111111;
+}
+
 .navbar_badge {
   position: absolute;
   display: inline-table;
