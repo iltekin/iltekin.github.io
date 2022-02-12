@@ -141,13 +141,24 @@ hr {
 }
 
 .navbar_badge {
-  background: #000000;
-  color: #FFFFFF;
-  font-size: 9px;
-  border-radius: 50%;
   position: absolute;
-  top: 0;
   right: 0;
+  top: 0;
+  display: inline-table;
+  vertical-align: middle;
+  width: 15px;
+  height: 15px;
+  font-size: 10px;
+  color: #FFFFFF;
+  background-color: #000000;
+  border-radius: 50%;
+  transform: translateX(100%);
+}
+
+.navbar_badge__content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
 }
 
 .category-title {
