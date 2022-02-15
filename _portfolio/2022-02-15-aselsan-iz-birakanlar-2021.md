@@ -7,7 +7,7 @@ keywords: "php, aselsan, iz bırakanlar"
 images: 004
 ---
 
-Huawei Türkiye için tasarlanmış bir insan kaynakları yönetim sistemi. [Workable](https://workable.com) API entegrasyonu da yapılan web sitesi [huaweikariyerussu.com](https://huaweikariyerussu.com) üzerinde aktif olarak hizmet vermektedir.
+Aselsan için hazırlayıp kodladığımız bir çevrimiçi etkinlik web sitesi.
 
 ![001](https://iltekin.com/portfolio/images/004/001.jpg)
 
