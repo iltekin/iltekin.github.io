@@ -13,7 +13,7 @@ permalink: /tanitim-yazisi-fiyat-listesi/
 ### Standart
 
 | Site                 	|   Süre  	| Link 	|    Fiyat 	|
-|----------------------	|:-------:	|:----:	|---------:	|
+|----------------------	|:-----:	|:--:	|-----:	    |
 | `kelimelerbenim.com` 	| `2 YIL` 	|  `2` 	| `350 TL` 	|
 | `blogsozluk.com`     	| `2 YIL` 	|  `2` 	| `250 TL` 	|
 | `dakika.org`         	| `2 YIL` 	|  `2` 	| `150 TL` 	|
