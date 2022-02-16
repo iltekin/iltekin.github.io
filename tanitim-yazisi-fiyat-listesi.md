@@ -4,12 +4,6 @@ title: Tanıtım Yazısı Fiyat Listesi
 permalink: /tanitim-yazisi-fiyat-listesi/
 ---
 
-| Site                 	|   Süre  	| Link 	|    Fiyat 	|
-|----------------------	|:-------:	|:----:	|---------:	|
-| `kelimelerbenim.com` 	| `2 YIL` 	|  `1` 	| `250 TL` 	|
-| `blogsozluk.com`     	| `2 YIL` 	|  `1` 	| `150 TL` 	|
-| `dakika.org`         	| `2 YIL` 	|  `1` 	| `100 TL` 	|
-
 ### Standart
 
 | Site                 	|   Süre  	| Link 	|    Fiyat 	|
