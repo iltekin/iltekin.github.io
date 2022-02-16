@@ -22,10 +22,10 @@ Aşağıdaki web sitelerinden tanıtım yazısı satışı yapılmaktadır. Yaz�
 - EK LİNK :     `100 TL`
 - YAZI HAZIRLAMA: `150 TL`
 
+<br>
+
 ---
 
-<br>
-<br>
 <br>
 
 ### blogsozluk.com
@@ -40,10 +40,10 @@ Blogsozluk hakkında bazı bilgiler.
 - EK LİNK :     `100 TL`
 - YAZI HAZIRLAMA: `150 TL`
 
+<br>
+
 ---
 
-<br>
-<br>
 <br>
 
 ### dakika.org
@@ -57,7 +57,5 @@ Dakika.org hakkında bazı bilgiler.
 - EK SÜRE :     `100 TL `
 - EK LİNK :     `100 TL`
 - YAZI HAZIRLAMA: `150 TL`
-
----
 
 
