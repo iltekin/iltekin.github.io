@@ -8,6 +8,8 @@ Aşağıdaki web sitelerinden tanıtım yazısı satışı yapılmaktadır. Yaz�
 
 ---
 
+<br>
+
 ### kelimelerbenim.com
 
 2008 yılında Sezer İltekin tarafından kurulan ve 13 yıldır Türkiye’nin en iyi bloglarından biri olma iddiasını sürdüren, Altın Örümcek, Turkcell Blog Ödülleri, Hürriyet Bumerang Ödülleri gibi büyük çaplı organizasyonlarda dereceler elde etmiş bir kişisel blog olan KelimelerBenim.com, özgün içeriği, blog ekosisteminden edindiği doğal referansları ve kullanıcı deneyimini ön planda tutan tasarım anlayışıyla arama motorlarının güvenini kazanmış organik bir içerik deposudur.
@@ -22,6 +24,9 @@ Aşağıdaki web sitelerinden tanıtım yazısı satışı yapılmaktadır. Yaz�
 
 ---
 
+<br>
+<br>
+<br>
 
 ### blogsozluk.com
 
@@ -37,6 +42,9 @@ Blogsozluk hakkında bazı bilgiler.
 
 ---
 
+<br>
+<br>
+<br>
 
 ### dakika.org
 
