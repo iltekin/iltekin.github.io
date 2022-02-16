@@ -12,11 +12,11 @@ permalink: /tanitim-yazisi-fiyat-listesi/
 | zebra stripes | are neat      |    $1 |
 
 ### Standart
-|ID | Site                                              | Süre      | Link (Dofollow) |Kategori         | Fiyat     |
-|:---:| ---------------                                   |:-------:  |:---------------:|:---------------:| ---------:|
-|01 | `kelimelerbenim.com` | `2 YIL`   | `1`             |`Tanıtım`        | `250 TL`  |
-|02 | `blogsozluk.com`        | `2 YIL`   | `1`             |`Tanıtım`        | `150 TL`  |
-|03 | `dakika.org`                | `2 YIL`   | `1`             |`Tanıtım`        | `100 TL`  |
+|  ID | Site                 | Süre      | Link (Dofollow) |Kategori         | Fiyat     |
+|:---:| -------------------- |:--------: |:---------------:|:---------------:| ---------:|
+|  01 | `kelimelerbenim.com` | `2 YIL`   | `1`             |`Tanıtım`        | `250 TL`  |
+|  02 | `blogsozluk.com`     | `2 YIL`   | `1`             |`Tanıtım`        | `150 TL`  |
+|  03 | `dakika.org`         | `2 YIL`   | `1`             |`Tanıtım`        | `100 TL`  |
 
 ### Gold
 |ID | Site                                              | Süre      | Link (Dofollow) |Kategori         | Fiyat     |
