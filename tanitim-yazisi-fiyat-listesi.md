@@ -12,6 +12,7 @@ permalink: /tanitim-yazisi-fiyat-listesi/
 | `blogsozluk.com`     	| `2 YIL` 	|  `2` 	| `250 TL` 	|
 | `dakika.org`         	| `2 YIL` 	|  `2` 	| `150 TL` 	|
 
+
 ### Gold
 
 | Site                 	|   Süre  	| Link 	|    Fiyat 	|
@@ -19,6 +20,7 @@ permalink: /tanitim-yazisi-fiyat-listesi/
 | `kelimelerbenim.com` 	| `2 YIL` 	|  `2` 	| `350 TL` 	|
 | `blogsozluk.com`     	| `2 YIL` 	|  `2` 	| `250 TL` 	|
 | `dakika.org`         	| `2 YIL` 	|  `2` 	| `150 TL` 	|
+
 
 ### Premium
 
