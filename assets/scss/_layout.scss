@@ -46,6 +46,15 @@ hr {
   font-weight: normal;
 }
 
+.projects-container {
+  padding-left:0;
+  padding-right:0
+}
+
+.projects-container .post-item {
+  padding: 10px 0;
+}
+
 .pull-left {
   float: left;
 }
