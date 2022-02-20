@@ -7,7 +7,7 @@ keywor/s: "php, aselsan, iz bırakanlar"
 images: 004
 ---
 
-Aselsan için hazırlayıp ko/la/ığımız bir çevrimiçi etkinlik web sitesi.
+Aselsan için hazırlayıp kodladığımız bir çevrimiçi etkinlik web sitesi.
 
 ![001](/assets/images/portfolio/004/001.jpg)
 
