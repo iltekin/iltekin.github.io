@@ -12,4 +12,4 @@ images: 001
 
 [code.iltekin.com/kitap-sirt-kalinligi-hesaplama](https://code.iltekin.com/kitap-sirt-kalinligi-hesaplama) bağlantısı üzerinde ücretsiz olarak kullanabilir ve açık kaynak kodlu olarak geliştirdiğim bu aracın kaynak kodlarına [Github](https://github.com/iltekin/book-spine-calculator) üzerinden ulaşabilirsiniz.
 
-![001](/assets/images/projects/{{ post.images }}/001.jpg)
+![001](/assets/images/projects/001/001.jpg)
