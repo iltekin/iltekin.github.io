@@ -25,9 +25,10 @@ $blue-color: #0086B3;
 $dark-gray-color: #333;
 $medium-gray-color: #999;
 $light-gray-color: #ccc;
+$new-base-code: #d0d0d0;
 
 // Font Colors
-$base-font-color: rgba($dark-gray-color, .8);
+$base-font-color: rgba($new-base-code, .8);
 
 // Border
 $base-border-color: $light-gray-color;
