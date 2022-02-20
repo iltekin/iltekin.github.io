@@ -25,6 +25,7 @@ collections:
   portfolio:
     output: true
   projects:
+    permalink: /projects/:title/
     output: true
 
 # Sass configuration
