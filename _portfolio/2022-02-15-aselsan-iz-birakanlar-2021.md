@@ -9,8 +9,8 @@ images: 004
 
 Aselsan için hazırlayıp kodladığımız bir çevrimiçi etkinlik web sitesi.
 
-![001](https://iltekin.com/portfolio/images/004/001.jpg)
+![001](../assets/images/portfolio/004/001.jpg)
 
-![002](https://iltekin.com/portfolio/images/004/002.jpg)
+![002](../assets/images/portfolio/004/002.jpg)
 
-![003](https://iltekin.com/portfolio/images/004/003.jpg)
+![003](../assets/images/portfolio/004/003.jpg)
