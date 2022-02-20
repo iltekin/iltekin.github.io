@@ -11,4 +11,4 @@ Emniyet Genel Müdürlüğünün 2017 yılında yapmış olduğu Misyon Koruma S
 
 [https://code.iltekin.com/misyon](https://code.iltekin.com/misyon) bağlantısı üzerinde ücretsiz olarak kullanabilir.
 
-![001](../assets/images/projects/002/001.jpg)
+![001](/assets/images/projects/002/001.jpg)

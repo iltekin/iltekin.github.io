@@ -9,6 +9,6 @@ images: 002
 
 Bu web sitesi Gillette Türkiye'nin sponsor olduğu profesyonel futbol kulüplerinin loca rezervasyonları için tasarlanmıştır.
 
-![001](../assets/images/portfolio/002/001.jpg)
+![001](/assets/images/portfolio/002/001.jpg)
 
-![002](../assets/images/portfolio/002/002.jpg)
+![002](/assets/images/portfolio/002/002.jpg)
