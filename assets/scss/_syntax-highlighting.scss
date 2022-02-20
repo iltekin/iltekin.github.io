@@ -27,7 +27,6 @@
     code {
       white-space: pre;
       padding: 0 !important;
-      color: #d0d0d0;
 
       * {
         white-space: unset; // this sets all children inside to nowrap
@@ -102,6 +101,7 @@
 .highlight pre,
 .highlight code {
   background-color: #24282e !important;
+  color: #d0d0d0;
   font-size: 14px;
 }
 
