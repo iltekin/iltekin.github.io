@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "2017 Misyon Koruma Vücut Kitle Endeksi Hesaplama Aracı"
+title: "Misyon Koruma Vücut Kitle Endeksi Hesaplama Aracı"
 comments: false
 description: "Emniyet Genel Müdürlüğünün 2017 yılında yapmış olduğu Misyon Koruma Sınavına başvuru şartlarında belirtilen Vücut Kitle Endeksi hesaplamasının boy ve kilo bilgisi ile yapılması."
 keywords: "egm, misyon koruma, vücut kitle endeksi"
