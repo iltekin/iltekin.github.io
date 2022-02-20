@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I will introduce myself if i will be available.
+Hi, I'm Sezer İltekin 👋🏼 <br/>I'm an iOS Developer 📱 and Full Stack Web Developer 👨🏻‍💻 from Istanbul 🇹🇷
