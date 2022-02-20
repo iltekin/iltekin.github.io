@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-This is contact page
+You can contact me via `sezer@iltekin.com` or follow me on [Twitter](https://twitter.com/kelimelerbenim) or [Github](https://github.com/iltekin).
