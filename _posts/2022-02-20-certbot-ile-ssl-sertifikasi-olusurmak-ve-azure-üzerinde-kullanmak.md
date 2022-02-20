@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Certbot İle Oluşturulan SSL Sertifikasını Azure Servislerinde Kullanmak"
+title: "Certbot İle SSL Sertifikası Oluşturmak ve Azure Üzerinde Kullanmak"
 comments: false
 description: "Certbot İle Oluşturulan SSL Sertifikasını Azure Servislerinde Kullanmak için gereken adımlar"
 keywords: "azure, ssl, certbot, letsencrypt"
