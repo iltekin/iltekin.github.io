@@ -20,4 +20,4 @@ year: 2016
 
 
 ![001](/assets/images/projects/003/001.jpg)
-![002](/assets/images/projects/003/001.jpg)
+![002](/assets/images/projects/003/002.jpg)
