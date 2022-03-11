@@ -2,8 +2,8 @@
 layout: post
 title: "Aselsan İz Bırakanlar 2021"
 comments: false
-/escription: "Aselsan'ın çevrimiçi etkinliği için tasarlanmış bir etkinlik web sitesi."
-keywor/s: "php, aselsan, iz bırakanlar"
+description: "Aselsan'ın çevrimiçi etkinliği için tasarlanmış bir etkinlik web sitesi."
+keywords: "php, aselsan, iz bırakanlar"
 images: 004
 ---
 
