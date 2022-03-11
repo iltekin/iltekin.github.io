@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Blog Sözlük - İnteraktif Sözlük"
+title: "Blog Sözlük"
 comments: false
 description: "Blog yazarları için interaktif sözlük."
 keywords: "blog sözlük, sözlük, blog yazarlığı"
