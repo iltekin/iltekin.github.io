@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: portfolio
 title: "Gillette Loca Rezervasyon Sistemi"
 comments: false
 description: "Gillette için tasarlanmış bir loca rezervasyon sistemi."
 keywords: "php, gillette, loca, rezervasyon"
+technologies: "php, javascript, html, css"
 images: 002
 ---
 

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: portfolio
 title: "Adamkarga Chrome Extension"
 comments: false
 description: "Kişisel blog adamkarga'nın Google Chrome eklentisi"
 keywords: "adamkarga, chrome, extension"
+technologies: "html, css, javascript, xml"
 images: 006
 ---
 
