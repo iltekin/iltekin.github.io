@@ -3,7 +3,7 @@ layout: portfolio
 title: "Mercedes-Benz Test Sürüşü Takip Sistemi"
 comments: false
 description: "Mercedes-Benz test sürüşü için tasarlanmış bir süre takip sistemi."
-keywords: "php, mercedes, mercedes-benz, test sürüşü"
+keywords: "php, mercedes, mercedes-benz, test sürüşü, css"
 technologies: "php, html, css, javascript"
 images: 001
 ---
