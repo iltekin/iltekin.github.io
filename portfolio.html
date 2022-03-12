@@ -6,8 +6,7 @@ permalink: /portfolio/
 
 <section class="post-list">
   <div class="container">
-    {% assign portfolio = site.portfolio | sort: 'year' | reverse %}
-    {% for post in portfolio %}
+    {% for post in site.portfolio reversed %}
       {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
       {% else %}
