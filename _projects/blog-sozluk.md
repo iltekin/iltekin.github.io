@@ -8,7 +8,7 @@ images: 003
 year: 2016
 ---
 
-2016 yılında geliştirmeye başladığım, blog yazarlarını bir platformda toplama amacıyla kurulmuş fakat her kesime hitap eden tanıma dayalı interaktif sözlük.
+2016 yılında geliştirmeye başladığım, blog yazarlarını bir platformda toplama amacıyla kurulmuş fakat kısa süre içinde her kesime hitap eder hale gelmiş tanım esaslı interaktif sözlük.
 
 [blogsozluk.com](https://blogsozluk.com) üzerinde yayın hayatına devam eden web sitesi 6. yılını doldurmak üzereyken 12.03.2022 tarihi itibariyle şu istatistiklere sahip:
 
