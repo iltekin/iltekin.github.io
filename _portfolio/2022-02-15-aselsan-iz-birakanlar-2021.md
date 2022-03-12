@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: portfolio
 title: "Aselsan İz Bırakanlar 2021"
 comments: false
 description: "Aselsan'ın çevrimiçi etkinliği için tasarlanmış bir etkinlik web sitesi."
 keywords: "php, aselsan, iz bırakanlar"
+technologies: "php, javascript, bootstrap, node.js, socket.io"
 images: 004
 ---
 
