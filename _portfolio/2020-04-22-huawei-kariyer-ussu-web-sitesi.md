@@ -5,7 +5,7 @@ comments: false
 description: "Huawei Türkiye için tasarlanmış bir insan kaynakları web sitesi."
 keywords: "php, huawei, insan kaynayları, huawei türkiye"
 images: 003
-technologies: "php, javascript, bootstrap"
+technologies: "php, javascript, html, css, bootstrap"
 ---
 
 Huawei Türkiye için tasarlanmış bir insan kaynakları yönetim sistemi. [Workable](https://workable.com) API entegrasyonu da yapılan web sitesi [huaweikariyerussu.com](https://huaweikariyerussu.com) üzerinde aktif olarak hizmet vermektedir.

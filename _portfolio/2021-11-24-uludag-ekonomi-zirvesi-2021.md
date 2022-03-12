@@ -4,7 +4,7 @@ title: "Uludağ Ekonomi Zirvesi 2021"
 comments: false
 description: "Türkiye’nin en önemli iş ve ekonomi buluşması Uludağ Ekonomi Zirvesi web sitesi."
 keywords: "php, aselsan, iz bırakanlar"
-technologies: "php, javascript, bootstrap, node.js, socket.io"
+technologies: "php, javascript, html, css, bootstrap, node.js, socket.io"
 images: 004
 ---
 
