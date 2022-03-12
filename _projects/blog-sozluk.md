@@ -2,7 +2,7 @@
 layout: project
 title: "Blog Sözlük"
 comments: false
-description: "Blog yazarları için interaktif sözlük."
+description: "Blog yazarları için kurulmuş interaktif sözlük."
 keywords: "blog sözlük, sözlük, blog yazarlığı"
 images: 003
 year: 2016
