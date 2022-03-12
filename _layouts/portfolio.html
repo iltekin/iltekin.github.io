@@ -5,7 +5,7 @@ layout: default
 <article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title portfolio-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="technologies">{% if page.technologies %}{{ page.technologies }}{% endif %}</p>
+    <p class="post-meta technologies">{% if page.technologies %}{{ page.technologies }}{% endif %}</p>
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
