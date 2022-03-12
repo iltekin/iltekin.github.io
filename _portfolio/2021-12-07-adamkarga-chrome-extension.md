@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: "Adamkarga Chrome Extension"
+title: "AdamKarga Chrome Extension"
 comments: false
 description: "Kişisel blog adamkarga'nın Google Chrome eklentisi"
 keywords: "adamkarga, chrome, extension"
