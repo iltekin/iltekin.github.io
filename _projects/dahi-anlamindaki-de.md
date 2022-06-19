@@ -10,6 +10,8 @@ year: 2022
 
 Eğlenceli bir hafta sonu projesi. Dahi anlamındaki de konusunda size sorulacak 10 sorunun tamamını 150 saniye içinde doğru yanıtlarsanız üzerinde adınızın yazdığı bir "Dahi Anlamındaki De Sertifikası" kazanıyorsunuz. Projenin alan adını "ben bununla bi' şey yaparım" diyerek bundan birkaç ay önce almıştım.
 
+https://dahianlamindaki.de adresinden ulaşabileceğiniz projeyi Github Pages üzerinde host ediyorum, aynı zamanda kaynak kodlarını da Github'da paylaşıyorum. Projeyi geliştirirken tamamen Vanilla Javascript kullandım, ufak tefek işleri jQuery kullanmadan da halledebileceğime inanmam konusunda faydalı oldu.
+
 
 ![001](/assets/images/projects/004/001.jpg)
 ![002](/assets/images/projects/004/002.jpg)
