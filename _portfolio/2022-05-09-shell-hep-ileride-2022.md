@@ -5,7 +5,7 @@ comments: false
 description: "Shell'in çevrimiçi etkinliği için tasarlanmış bir etkinlik web sitesi."
 keywords: "php, shell, hep ileride"
 technologies: "php, javascript, html, css, bootstrap"
-images: 004
+images: 011
 ---
 
 Shell için Mayıs 2022'de hazırlayıp kodladığımız bir çevrimiçi etkinlik web sitesi.
