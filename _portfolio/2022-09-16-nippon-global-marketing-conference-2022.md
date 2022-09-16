@@ -9,4 +9,5 @@ images: 014
 ---
 
 Nippon'un hibrit olarak gerçekleşen Global Marketing Conference 2022 etkinliği için tasarlanmış bir online etkinlik web sitesi.
+
 ![001](/assets/images/portfolio/014/001.jpg)
