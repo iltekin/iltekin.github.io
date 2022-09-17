@@ -7,7 +7,7 @@ permalink: /products/
 <section class="post-list">
   <div class="container projects-container">
     {% assign products = site.products | sort: 'year' | reverse %}
-    {% for post in projects %}
+    {% for post in products %}
       <article class="post-item">
         <span class="post-meta date-label">{{ post.year }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
