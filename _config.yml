@@ -27,6 +27,9 @@ collections:
   projects:
     permalink: /projects/:title/
     output: true
+  products:
+    permalink: /products/:title/
+    output: true
 
 # Sass configuration
 sass:
