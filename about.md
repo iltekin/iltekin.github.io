@@ -18,6 +18,7 @@ permalink: /about/
 
 #about-container > .photo img {
     border-radius: 10px;
+    box-shadow: 0 0 3px 1px #333;
 }
 
 </style>
