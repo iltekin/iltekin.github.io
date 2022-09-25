@@ -13,7 +13,7 @@ permalink: /about/
 #about-container > .photo {
     float: left;
     margin: 0 20px 20px 0;
-    max-width: 260px;
+    max-width: 35%;
 }
 
 #about-container > .photo img {
