@@ -55,7 +55,7 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 <p>I also have an award-winning 🏆 <a target="_blank" href="https://kelimelerbenim.com">Turkish personal blog</a> called "Words are Mine"
  where I write about my life, my thoughts and my experiences.</p>
 
-Feel free to contact me on <a href="mailto:sezer@iltekin.com"><code>sezer@iltekin.com</code></a>
+Feel free to contact me on <a href="mailto:sezer@iltekin.com">sezer@iltekin.com</a>
 
 </div>
 </div>
