@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="about-container">
 <div id="photo">
-![001](/assets/images/author.jpg)
+<img src="./assets/images/author.jpg" alt="author">
 </div>
 <div id="text">
 Hi, I'm Sezer İltekin 👋🏼 <br/>I'm a freelance Full Stack Web Developer 👨🏻‍💻 from Istanbul 🇹🇷
