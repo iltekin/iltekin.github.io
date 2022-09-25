@@ -43,7 +43,7 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 
 <p>The schools (mostly open-education) I graduated from:</p>
 <ul>
-<li>Kocaeli University / Horse Trainering (2008)</li>
+<li>Kocaeli University / Race Horse Trainering (2008)</li>
 <li>Police Academy / Associate Degree (2010)</li>
 <li>Anadolu University / Business Administration (2011)</li>
 <li>Anadolu University / Social Media Management (2015)</li>
