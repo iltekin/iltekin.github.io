@@ -33,7 +33,7 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 
 <p>I love to learn, code and produce creative content 💡 This has been my lifestyle since childhood and I will continue to learn and improve myself 🧠 throughout my life.</p>
 
-<p>I've been developing websites and web applications using PHP 🐘 since 2016. You can see a small part of my work on my portfolio page. Along with PHP, of course, I also use HTML, CSS and JavaScript in my projects. In 2021, I decided to switch from Web to Mobile development and nowadays I am writing my codes in Swift language to be an iOS Developer 👨🏻‍💻</p>
+<p>I've been developing websites and web applications using <code>PHP</code> 🐘 since 2016. You can see a small part of my work on my portfolio page. Along with <code>PHP</code>, of course, I also use <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code> in my projects. In 2021, I decided to switch from Web to Mobile development and nowadays I am writing my codes in <code>Swift</code> language to be an iOS Developer 👨🏻‍💻</p>
 
 <p>You can find me on: 
 <a target="_blank" href="https://github.com/iltekin">Github</a> - 
@@ -41,7 +41,7 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 <a target="_blank" href="https://linkedin.com/in/iltekin">LinkedIn</a> - 
 <a target="_blank" href="https://twitter.com/kelimelerbenim">Twitter</a></p>
 
-<p>The schools I graduated from:</p>
+<p>The schools (Mostly open-education) I graduated from:</p>
 <ul>
 <li>Kocaeli University / Horse Trainering (2008)</li>
 <li>Police Academy / Associate Degree (2010)</li>
@@ -52,13 +52,10 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 <li>Anadolu University / Management Information Systems (Started in 2022)</li>
 </ul>
 
-<p>
+<p>I also have an award-winning 🏆 <a target="_blank" href="https://kelimelerbenim.com">Turkish personal blog</a> called "Words are Mine"
+ where I write about my life, my thoughts and my experiences.</p>
 
-
-I also have an award-winning 🏆 <a target="_blank" href="https://kelimelerbenim.com">Turkish personal blog</a> called "Words are Mine"
- where I write about my life, my thoughts and my experiences.
-
-</p>
+Feel free to contact me on <a href="mailto:sezer@iltekin.com"><code>sezer@iltekin.com</code></a>
 
 </div>
 </div>
