@@ -35,7 +35,19 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 
 <p>I've been developing websites and web applications using PHP 🐘 since 2016. You can see a small part of my work on my portfolio page. Along with PHP, of course, I also use HTML, CSS and JavaScript in my projects. In 2021, I decided to switch from Web to Mobile development and nowadays I am writing my codes in Swift language to be an iOS Developer 👨🏻‍💻</p>
 
-<p>You can find me on: Github - HackerRank - LinkedIn - Twitter</p>
+<p>You can find me on: <a href="https://github.com/iltekin">Github</a> - <a href="https://hackerrank.com/iltekin">HackerRank</a> - <a href="https://linkedin.com/in/iltekin">LinkedIn</a> - <a href="https://twitter.com/kelimelerbenim">Twitter</a></p>
+
+<p>The schools I graduated from:</p>
+<ul>
+<li>Kocaeli University / Horse Trainering (2008)</li>
+<li>Police Academy / Associate Degree (2010)</li>
+<li>Anadolu University / Business Administration (2011)</li>
+<li>Anadolu University / Social Media Management (2015)</li>
+<li>Anadolu University / Photography And Camera Operation (2017)</li>
+<li>Anadolu University / Web Design And Development (2019)</li>
+<li>Anadolu University / Management Information Systems (Started in 2022)</li>
+</ul>
+
 </div>
 </div>
 
