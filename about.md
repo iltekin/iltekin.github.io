@@ -35,7 +35,11 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 
 <p>I've been developing websites and web applications using PHP 🐘 since 2016. You can see a small part of my work on my portfolio page. Along with PHP, of course, I also use HTML, CSS and JavaScript in my projects. In 2021, I decided to switch from Web to Mobile development and nowadays I am writing my codes in Swift language to be an iOS Developer 👨🏻‍💻</p>
 
-<p>You can find me on: <a href="https://github.com/iltekin">Github</a> - <a href="https://hackerrank.com/iltekin">HackerRank</a> - <a href="https://linkedin.com/in/iltekin">LinkedIn</a> - <a href="https://twitter.com/kelimelerbenim">Twitter</a></p>
+<p>You can find me on: 
+<a target="_blank" href="https://github.com/iltekin">Github</a> - 
+<a target="_blank" href="https://hackerrank.com/iltekin">HackerRank</a> - 
+<a target="_blank" href="https://linkedin.com/in/iltekin">LinkedIn</a> - 
+<a target="_blank" href="https://twitter.com/kelimelerbenim">Twitter</a></p>
 
 <p>The schools I graduated from:</p>
 <ul>
