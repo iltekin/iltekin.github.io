@@ -8,6 +8,8 @@ images: 005
 year: 2022
 ---
 
+Wordpress Plugins dizinine kabul edildiğinde bu sayfa güncellenecektir.
+
 Creates remaining days number of a sponsored backlink next to it.
 By using `[link]` shortcode after backlink, Administrators can see remaining days of a sponsored backlink next to it.
 
