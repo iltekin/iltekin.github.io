@@ -8,6 +8,9 @@ images: 006
 year: 2022
 ---
 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+
 Wordpress web sitelerine gelen SEO amaçlı yorumlardan kurtulmanızı sağlayan bir eklenti.
 Wordpress Plugins dizinine kabul edildiğinde bu sayfa güncellenecektir.
 
