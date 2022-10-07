@@ -11,4 +11,3 @@ year: 2022
 Şirket içindeki işlerin takibi için oluşturulmuş bir sistemdir.
 
 ![001](/assets/images/products/001/001.jpg)
-
