@@ -8,5 +8,6 @@ images: 001
 year: 2022
 ---
 
+![001](/assets/images/products/001/001.jpg)
+
 Şirket içindeki işlerin takibi için oluşturulmuş bir sistemdir.
-Demo: https://code.iltekin.com/istakip
