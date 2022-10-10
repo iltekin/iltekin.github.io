@@ -39,7 +39,7 @@ I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷<
 <a target="_blank" href="https://github.com/iltekin">Github</a> - 
 <a target="_blank" href="https://hackerrank.com/iltekin">HackerRank</a> - 
 <a target="_blank" href="https://linkedin.com/in/iltekin">LinkedIn</a> - 
-<a target="_blank" href="https://twitter.com/kelimelerbenim">Twitter</a></p>
+<a target="_blank" href="https://twitter.com/sezeriltekin">Twitter</a></p>
 
 <p>The schools (mostly open-education) I graduated from:</p>
 <ul>
