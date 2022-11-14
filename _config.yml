@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "iltekin"
-title_right   : "brainworks" # default: ""
+title_right   : "codeworks" # default: ""
 description   : "iltekin software co. website"
 keywords      : "iltekin, iOS, software, web design, sezer İltekin"
 url           : https://iltekin.com # site url

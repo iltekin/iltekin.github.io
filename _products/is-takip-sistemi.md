@@ -9,5 +9,8 @@ year: 2022
 ---
 
 Şirket içindeki işlerin takibi için oluşturulmuş bir sistemdir.
+Demo için [https://istakip.iltekin.com](https://istakip.iltekin.com) adresine gidebilirsiniz.
+
+Demo kullanıcı adı ve şifre talebiniz için products@iltekin.com adresinden bize ulaşabilirsiniz.
 
 ![001](/assets/images/products/001/001.jpg)
