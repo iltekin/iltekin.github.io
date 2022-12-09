@@ -29,7 +29,7 @@ permalink: /about/
 </div>
 <div class="text">
 <p>Hi, I'm Sezer İltekin 👋🏼<br/>
-I'm a Full Stack Web Developer 👨🏻‍💻 from Istanbul, Türkiye 🇹🇷</p>
+I'm an iOS Developer 👨🏻‍💻 🇹🇷</p>
 
 <p>I love to learn, code and produce creative content 💡 This has been my lifestyle since childhood and I will continue to learn and improve myself 🧠 throughout my life.</p>
 
