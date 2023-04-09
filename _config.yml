@@ -22,6 +22,8 @@ source      : ./
 destination : ./_site
 
 collections:
+  medium_posts:
+    output: true
   portfolio:
     output: true
   projects:
@@ -45,7 +47,7 @@ plugins:
   - bourbon
   - jekyll-paginate
   - jekyll-redirect-from
-  - medium_posts
+  - jekyll-display-medium-posts
 
 # navbar pages
 navbar:
