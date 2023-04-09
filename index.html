@@ -6,7 +6,7 @@ title: Home
 {% include intro.html %}
 
 <section class="post-list">
-  <div class="container">
+  <div class="container" style="border-top: 1px dashed #d9d9d9; margin-top: 40px;">
     {% for post in site.posts %}
       {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
