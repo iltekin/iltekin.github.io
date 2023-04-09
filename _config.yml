@@ -22,8 +22,6 @@ source      : ./
 destination : ./_site
 
 collections:
-  medium_posts:
-    output: true
   portfolio:
     output: true
   projects:
