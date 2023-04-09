@@ -45,6 +45,7 @@ plugins:
   - bourbon
   - jekyll-paginate
   - jekyll-redirect-from
+  - medium_posts
 
 # navbar pages
 navbar:

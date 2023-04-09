@@ -18,6 +18,7 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speed up html-proofer install
+  - MEDIUM_USERNAME=iltekin
 
 sudo: false # route build to the container-based infrastructure for faster build
 
