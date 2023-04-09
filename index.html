@@ -25,20 +25,3 @@ title: Home
   </div>
 
 </section>
-
-<section class="post-list">
-  <div class="container" style="border-top: 1px dashed #d9d9d9; margin-top: 40px;">
-    <h2> Latest Blog Posts </h2>
-
-    {% for e in site.medium_posts %}
-
-    <div class="row">
-      <h3>{{e.title}}</h3>
-      <p>{{e.feed_content}}</p>
-
-      {% endfor %}
-
-    </div>
-  </div>
-
-</section>
