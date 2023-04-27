@@ -1,9 +1,22 @@
 <script type="text/javascript" src="{{ "/assets/js/typewriter.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 <section class="intro">
 
-  <div class="container" style="
-    display: flex;
-">
+  <style>
+    .intro_container {
+      display: flex;
+      flex-direction: row;
+    }
+
+    /* mobile */
+    @media only screen and (max-width: 600px) {
+      .intro_container {
+        flex-direction: column-reverse;
+      }
+    }
+
+  </style>
+
+  <div class="container intro_container">
     <div style="
     padding-right: 40px;
     min-width: 270px;
