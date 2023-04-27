@@ -29,7 +29,7 @@ permalink: /about/
 </div>
 <div class="text">
 <p>Hi, I'm Sezer İltekin 👋🏼<br/>
-I am a self-taught iOS Developer 👨🏻‍💻</p>
+I am a self-taught Software Developer 👨🏻‍💻</p>
 
 <p>I love to learn, code and produce creative content 💡 This has been my lifestyle since childhood and I will continue to learn and improve myself 🧠 throughout my life.</p>
 
@@ -44,7 +44,7 @@ I am a self-taught iOS Developer 👨🏻‍💻</p>
 <p>The schools (mostly open-education) I graduated from:</p>
 <ul>
 <li>Kocaeli University / Race Horse Trainering (2008)</li>
-<li>P.Academy / Associate Degree (2010)</li>
+<li>Police Academy / Associate Degree (2010)</li>
 <li>Anadolu University / Business Administration (2011)</li>
 <li>Anadolu University / Social Media Management (2015)</li>
 <li>Anadolu University / Photography And Camera Operation (2017)</li>
