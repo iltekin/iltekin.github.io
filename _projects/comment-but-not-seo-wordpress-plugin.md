@@ -6,7 +6,7 @@ description: "Wordpress web sitelerine gelen SEO amaçlı yorumlardan kurtulman�
 keywords: "wordpress, comment but not seo, plugin"
 images: 006
 year: 2022
-id: 006
+order: 006
 ---
 
 [![Featured Photo](/assets/images/projects/006/001.png)](/assets/images/projects/006/001.png){:target="_blank"}

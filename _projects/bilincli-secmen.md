@@ -6,7 +6,7 @@ description: "Seçime yönelik bir farkındalık projesi"
 keywords: "seçim, seçmen, demokrasi"
 images: 007
 year: 2023
-id: 007
+order: 007
 ---
 ![001](/assets/images/projects/007/001.png)
 
