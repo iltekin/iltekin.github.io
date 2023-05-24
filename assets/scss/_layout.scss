@@ -172,7 +172,7 @@ hr {
   font-size: 8px;
   font-weight: 900;
   color: #FFFFFF;
-  border-radius: 50%;
+  border-radius: 2px;
   transform: translateX(30%);
   line-height: 8px;
   padding: 2.5px 1px 1px 1px;
@@ -377,7 +377,6 @@ hr {
 
   .navbar_badge {
     position: static;
-    border-radius: 2px;
   }
 
 }
