@@ -9,8 +9,6 @@ year: 2022
 order: 005
 ---
 
-Wordpress Plugins dizinine kabul edildiğinde bu sayfa güncellenecektir.
-
 Creates remaining days number of a sponsored backlink next to it.
 By using `[link]` shortcode after backlink, Administrators can see remaining days of a sponsored backlink next to it.
 
@@ -34,20 +32,3 @@ duration        sure
 days            gun
 keyword         kelime
 plain           detaysiz
-
-Backlink Day Counter plugin is created by [Sezer İltekin](https://iltekin.com)
-
-== Installation ==
-
-1. Install the plugin
-2. Activate the plugin through the "Plugins" menu in WordPress
-3. Go to Settings -> Backlink Day Counter Settings to manage the options
-
-== Frequently Asked Questions ==
-
-For any questions, error reports and suggestions please visit https://iltekin.com/contact
-
-== Changelog ==
-
-= 1.0.0 =
-* Initial release
