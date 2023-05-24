@@ -37,7 +37,7 @@ Yazılım Geliştiriciyim 👨🏻‍💻</p>
 <p>2010-2020 yılları arasında Emniyet Genel Müdürlüğü bünyesinde yoğunluklu olarak Bilgi Teknolojileri alanında görev yaptım. 2019 yılında katıldığım sınav sonucunda başarılı olarak yaklaşık 1.5 yıl <code>Olay Yeri İnceleme Uzmanı</code> olarak görev yaptım. </p>
 
 
-<p>2017 yılında Misyon Koruma sınavını kazanarak T.C. Doha Büyükelçiliğine Ataşe ünvanıya atandım. 2023 yılının Nisan ayında Türkiye'ye dönerek sevdiğim işi yapmaya karar verdim ve memuriyetten istifa ettim. O günden bu yana Brainworks adını verdiğim şirketim için çalışıyor, insanlığa fayda sağlayacak projeler geliştirmeye devam ediyorum. </p>
+<p>2017 yılında girdiğim meslek içi Misyon Koruma sınavını kazanarak 2020 yılında <code>T.C. Doha Büyükelçiliğine</code> Ataşe ünvanıya atandım. 2023 yılının Şubat ayında yurt dışı görevim sona erdi ve Türkiye'ye dönerek sevdiğim işi yapmaya karar verdim ve memuriyetten istifa ettim. O günden bu yana <code>Brainworks</code> adını verdiğim şirketim için çalışıyor, insanlığa fayda sağlayacak projeler geliştirmeye devam ediyorum. </p>
 
 <p>Beni şu platformlarda bulabilirsiniz: 
 <a target="_blank" href="https://github.com/iltekin">Github</a> - 
