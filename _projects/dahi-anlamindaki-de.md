@@ -6,6 +6,7 @@ description: "Eğlenceli bir hafta sonu projesi"
 keywords: "tdk, dahi anlamındaki de, sertifika"
 images: 004
 year: 2022
+id: 004
 ---
 
 Eğlenceli bir hafta sonu projesi. [dahianlamindaki.de](https://dahianlamindaki.de){:target="_blank"} adresinden ulaşabileceğiniz web sitesinde "dahi anlamındaki de" konusunda size sorulacak 10 sorunun tamamını 150 saniye içinde doğru yanıtlarsanız üzerinde adınızın yazdığı bir "Dahi Anlamındaki De Sertifikası" kazanıyorsunuz. 

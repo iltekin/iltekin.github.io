@@ -6,6 +6,7 @@ description: "Emniyet Genel Müdürlüğünün 2017 yılında yapmış olduğu M
 keywords: "egm, misyon koruma, vücut kitle endeksi"
 images: 002
 year: 2017
+id: 002
 ---
 
 Emniyet Genel Müdürlüğünün 2017 yılında yapmış olduğu Misyon Koruma Sınavına başvuru şartlarında belirtilen Vücut Kitle Endeksi hesaplamasının boy ve kilo bilgisi ile yapılması için yazılmış bir araç.

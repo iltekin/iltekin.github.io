@@ -4,8 +4,9 @@ title: "Blog Sözlük"
 comments: false
 description: "Blog yazarları için kurulmuş interaktif sözlük."
 keywords: "blog sözlük, sözlük, blog yazarlığı"
-images: 003
+images: 001
 year: 2016
+id: 001
 ---
 
 2016 yılında geliştirmeye başladığım, blog yazarlarını bir platformda toplama amacıyla kurulmuş fakat kısa süre içinde her kesime hitap eder hale gelmiş tanım esaslı interaktif sözlük.
@@ -19,4 +20,4 @@ year: 2016
 - 119.342 mesajlaşma
 
 
-![001](/assets/images/projects/003/001.jpg)
+![001](/assets/images/projects/001/001.jpg)
