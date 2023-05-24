@@ -28,34 +28,34 @@ permalink: /about/
 <img src="/assets/images/author.jpg" alt="author">
 </div>
 <div class="text">
-<p>Hi, I'm Sezer İltekin 👋🏼<br/>
-I am a self-taught Software Developer 👨🏻‍💻</p>
 
-<p>I love to learn, code and produce creative content 💡 This has been my lifestyle since childhood and I will continue to learn and improve myself 🧠 throughout my life.</p>
+<p>Merhaba, Ben Sezer İltekin 👋🏼<br/>
+Yazılım Geliştiriciyim 👨🏻‍💻</p>
+<p>Öğrenmeyi, kodlamayı ve yaratıcı içerikler üretmeyi seviyorum 💡 Bu çocukluğumdan beri benim yaşam tarzım oldu ve ömrüm boyunca öğrenmeye ve kendimi geliştirmeye devam ediyorum.</p>
+<p>2016 yılından beri <code>PHP</code> 🐘 kullanarak web siteleri ve web uygulamaları geliştiriyorum. Portföy sayfamda çalışmalarımdan küçük bir bölümü görebilirsiniz. Elbette <code>PHP</code>'nin yanı sıra projelerimde <code>HTML</code>, <code>CSS</code> ve <code>JavaScript</code>'i de kullanıyorum. Ayrıca 2021 yılından bu yana <code>Swift</code> dilini kullanarak iOS platformuna native mobil uygulamalar yazıyorum 👨🏻‍💻</p>
 
-<p>I've been developing websites and web applications using <code>PHP</code> 🐘 since 2016. You can see a small part of my work on my portfolio page. Along with <code>PHP</code>, of course, I also use <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code> in my projects. In 2021, I decided to switch from Web to Mobile development and nowadays I am writing my codes in <code>Swift</code> language to be an iOS Developer 👨🏻‍💻</p>
+<p>2010-2020 yılları arasında Emniyet Genel Müdürlüğü bünyesinde yoğunluklu olarak Bilgi Teknolojileri alanında görev yaptım. 2019 yılında katıldığım sınav sonucunda başarılı olarak yaklaşık 1.5 yıl <code>Olay Yeri İnceleme Uzmanı</code> olarak görev yaptım. </p>
 
-<p>You can find me on: 
+
+<p>2017 yılında Misyon Koruma sınavını kazanarak T.C. Doha Büyükelçiliğine Ataşe ünvanıya atandım. 2023 yılının Nisan ayında Türkiye'ye dönerek sevdiğim işi yapmaya karar verdim ve memuriyetten istifa ettim. O günden bu yana Brainworks adını verdiğim şirketim için çalışıyor, insanlığa fayda sağlayacak projeler geliştirmeye devam ediyorum. </p>
+
+<p>Beni şu platformlarda bulabilirsiniz: 
 <a target="_blank" href="https://github.com/iltekin">Github</a> - 
 <a target="_blank" href="https://hackerrank.com/iltekin">HackerRank</a> - 
 <a target="_blank" href="https://linkedin.com/in/iltekin">LinkedIn</a> - 
 <a target="_blank" href="https://twitter.com/sezeriltekin">Twitter</a></p>
-
-<p>The schools (mostly open-education) I graduated from:</p>
+<p>Mezun olduğum okullar (çoğunlukla açıköğretim):</p>
 <ul>
-<li>Kocaeli University / Race Horse Trainering (2008)</li>
-<li>Police Academy / Associate Degree (2010)</li>
-<li>Anadolu University / Business Administration (2011)</li>
-<li>Anadolu University / Social Media Management (2015)</li>
-<li>Anadolu University / Photography And Camera Operation (2017)</li>
-<li>Anadolu University / Web Design And Development (2019)</li>
-<li>Anadolu University / Management Information Systems (Started in 2022)</li>
+<li>Kocaeli Üniversitesi / At Antrenörlüğü (2008)</li>
+<li>Polis Akademisi / Ön Lisans (2010)</li>
+<li>Anadolu Üniversitesi / İşletme (2011)</li>
+<li>Anadolu Üniversitesi / Medya ve İletişim (2015)</li>
+<li>Anadolu Üniversitesi / Fotoğrafçılık ve Kameramanlık (2017)</li>
+<li>Anadolu Üniversitesi / Web Tasarımı ve Kodlama (2019)</li>
+<li>Anadolu Üniversitesi / Yönetim Bilişim Sistemleri (Devam ediyorum)</li>
 </ul>
-
-<p>I also have an award-winning 🏆 <a target="_blank" href="https://kelimelerbenim.com">Turkish personal blog</a> called "Words are Mine"
- where I write about my life, my thoughts and my experiences.</p>
-
-Feel free to contact with me on <a href="mailto:sezer@iltekin.com">sezer@iltekin.com</a>
+<p>Ayrıca "<a target="_blank" href="https://kelimelerbenim.com">Kelimeler Benim</a>" adında 3 ödüllü 🏆 bir blogum var. Burada hayatımdan, düşüncelerimden ve deneyimlerimden bahsediyorum.</p>
+Benimle <a href="mailto:sezer@iltekin.com">sezer@iltekin.com</a> e-posta adresi üzerinden iletişim kurabilirsiniz.
 
 </div>
 </div>
