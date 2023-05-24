@@ -368,8 +368,11 @@ hr {
     width: 100%;
   }
 
-  .navbar li:first-child {
-    padding-left: 0;
+  .navbar li {
+    display: block;
+    padding: 6px 10px;
+    background: #d9d9d9;
+    margin: 8px 0;
   }
 
 }
