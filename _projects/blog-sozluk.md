@@ -6,7 +6,7 @@ description: "Blog yazarları için kurulmuş interaktif sözlük."
 keywords: "blog sözlük, sözlük, blog yazarlığı"
 images: 001
 year: 2016
-order: 001
+place: 1
 ---
 
 2016 yılında geliştirmeye başladığım, blog yazarlarını bir platformda toplama amacıyla kurulmuş fakat kısa süre içinde her kesime hitap eder hale gelmiş tanım esaslı interaktif sözlük.

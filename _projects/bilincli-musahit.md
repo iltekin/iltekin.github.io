@@ -6,7 +6,7 @@ description: "Seçime yönelik bir farkındalık projesi"
 keywords: "seçim, müşahit, demokrasi"
 images: 008
 year: 2023
-order: 008
+place: 8
 ---
 ![001](/assets/images/projects/008/001.png)
 

@@ -6,7 +6,7 @@ description: "Matbaaya göndereceğiniz kitabınızın sırt ölçüsünü belir
 keywords: "php, kitap sırt ölçüsü, kdy"
 images: 003
 year: 2021
-order: 003
+place: 3
 ---
 
 [Kitapyurdu](https://kitapyurdu.com)'nun sunduğu doğrudan yayıncılık (KDY) ile beraber kitap mizanpajı ile uğraşanların bir excel dosyası üzerinden kitap sırt ölçüsü hesapladıklarını bu işlerle ilgili olan arkaadaşım [Ubeyd](https://adamkarga.net) sayesinde öğrendikten sonra ufak da olsa bir fayda sağlamak için bu aracı yazdım. `6` ayda `1200` kişinin işine yaramış görünüyor.
