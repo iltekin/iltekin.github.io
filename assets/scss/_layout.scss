@@ -107,7 +107,6 @@ hr {
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
-  padding-left: 27px;
   position: relative;
 
   span {
@@ -115,15 +114,12 @@ hr {
   }
 }
 
-.logo:before {
-  content: '';
-  background: url('/assets/images/icon.svg') no-repeat;
-  background-size: 100%;
-  width: 22px;
-  height: 22px;
-  position: absolute;
-  left: 0;
-  top: 1px;
+.logo img {
+  width: 140px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .nav {
