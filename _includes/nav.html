@@ -15,7 +15,9 @@
 
 <nav class="nav">
   <div class="container">
-    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>
+    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">
+        <img src="{{ '/assets/images/logo.svg' | prepend: site.baseurl | prepend: site.url }}" alt="İltekin" style="width: 100px; margin-right: 10px; margin-bottom: 0px; display: inline-block; vertical-align: middle;"/>
+    </a></h1>
     <ul class="navbar">
       <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">Hakkında</a></li>
       <li><a href="{{ '/projects' | prepend: site.baseurl | prepend: site.url }}">Projeler</a><span class="navbar_badge"><span class="navbar_badge__content">{{ projectsCount }}</span></span></li>
