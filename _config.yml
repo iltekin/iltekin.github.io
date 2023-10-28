@@ -1,8 +1,8 @@
 # Site settings
 title_left    : "iltekin"
-title_right   : "brainworks"
-description   : "iltekin brainworks software co. website"
-keywords      : "brainworks, iltekin, iOS, software, web design, sezer İltekin"
+title_right   : "works"
+description   : "iltekin iltekinworks software co. website"
+keywords      : "iltekin, iOS, software, web design, sezer İltekin"
 url           : https://iltekin.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
