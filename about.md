@@ -46,7 +46,6 @@ Yazılım Geliştiriciyim 👨🏻‍💻</p>
 <a target="_blank" href="https://twitter.com/sezeriltekin">Twitter</a></p>
 <p>Mezun olduğum okullar (çoğunlukla açıköğretim):</p>
 <ul>
-<li>Kocaeli Üniversitesi / At Antrenörlüğü (2008)</li>
 <li>Polis Akademisi / Ön Lisans (2010)</li>
 <li>Anadolu Üniversitesi / İşletme (2011)</li>
 <li>Anadolu Üniversitesi / Medya ve İletişim (2015)</li>
